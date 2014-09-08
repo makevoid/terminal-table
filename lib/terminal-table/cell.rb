@@ -4,11 +4,6 @@ module Terminal
     class Cell
       
       ##
-      # Cell width.
-      
-      attr_reader :width
-      
-      ##
       # Cell value.
       
       attr_reader :value
